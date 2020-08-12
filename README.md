@@ -1,42 +1,14 @@
-# Cheat Sheets for Future Reference
-- Spec
-  - backwards compatibility
-- Key CSS keywords
-  - `initial` (global)
-  - `inherit` (global)
-  - `auto` (property specific)
-- CSS Box Model
-  - sizing
-    - explicit
-      - width
-        - min/max-width
-      - height
-        - min/max-height
-    - implicit
-      - keywords
-        - min-content
-        - max-content
-        - fit-content
-        - auto
-  - margin
-  - padding
-  - border
-  - background
-  - content
-    - parent -> child
-- colour
-  - DeShandro: Read colour hexcodes
-  - visualization
-    - names -> swatches
-    - hex <-> rgb
-    - names|hex|rgb -> hsl
-- typography
-- layout
-  - Block Formatting Contexts
-  - whitespace
-  - overlap
-- flex
-- grid
-- positioning
-- CSS error handling
-  - Simmons: Resilient CSS
+# Cheatsheets for Web Development 
+This stub repo is the starting point for a list of "cheatsheets" for learners of web development.
+
+## Project Goal 
+The content contained in this repo is an attempt to:
+- point out commonly used resources for learning;
+- avoid duplicating content that already exists;
+- contribute summaries and context for learning the topic in question.
+
+## Use cases
+- Reference: find valuable online resources quickly and easily.
+- Troubleshooting: highlight common problems and errors that beginners will likely encounter.
+- Getting Started: give absolute beginners a path for getting started on pre-requisites.
+- Going Further: give more experienced learners possible paths for continuing work on their craft.

@@ -1,0 +1,42 @@
+# Cheat Sheets for Future Reference
+- Spec
+  - backwards compatibility
+- Key CSS keywords
+  - `initial` (global)
+  - `inherit` (global)
+  - `auto` (property specific)
+- CSS Box Model
+  - sizing
+    - explicit
+      - width
+        - min/max-width
+      - height
+        - min/max-height
+    - implicit
+      - keywords
+        - min-content
+        - max-content
+        - fit-content
+        - auto
+  - margin
+  - padding
+  - border
+  - background
+  - content
+    - parent -> child
+- colour
+  - DeShandro: Read colour hexcodes
+  - visualization
+    - names -> swatches
+    - hex <-> rgb
+    - names|hex|rgb -> hsl
+- typography
+- layout
+  - Block Formatting Contexts
+  - whitespace
+  - overlap
+- flex
+- grid
+- positioning
+- CSS error handling
+  - Simmons: Resilient CSS
